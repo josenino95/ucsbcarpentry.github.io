@@ -10,7 +10,10 @@
 
         <hr style="border: none; border-top: 3px solid #ddd; margin: 20px 0;">
 
-        <p style="margin:0">{{ .Params.description | safeHTML }}</p>
+        {{ $description := .Params.description }}
+        {{ $description = replaceRE `src="/` (printf `src="%s` ("" | relURL)) $description }}
+        {{ $description = replaceRE `href="/` (printf `href="%s` ("" | relURL)) $description }}
+        <p style="margin:0">{{ $description | safeHTML }}</p>
 
         <p class="workshop-links">
             {{ with .Params.shoreline_url }}

@@ -3,7 +3,7 @@ title: UCSB Library Carpentry Community
 hide_title: true
 ---
 
-[Local Workshop Practices](/community/workshops.html)
+[Local Workshop Practices](./workshops.html)
 
 # Carpentry Volunteering
 

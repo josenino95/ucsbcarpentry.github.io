@@ -14,130 +14,130 @@ url: /past-workshops/
 	    <td><b>2026 Workshops</b></td>
 	</tr>
     <tr>
-	    <td>February 11 and 13</td><td><a href="/workshop/2026/02/02/ucsb-ml.html">Introduction to Machine Learning in Python</a></td>
+	    <td>February 11 and 13</td><td><a href="../workshop/2026/02/02/ucsb-ml.html">Introduction to Machine Learning in Python</a></td>
 	</tr>
     <tr>
-	    <td>January 27 and 29</td><td><a href="/workshop/2026/01/27/ucsb-webscraping.html">Web Scraping with Python</a></td>
+	    <td>January 27 and 29</td><td><a href="../workshop/2026/01/27/ucsb-webscraping.html">Web Scraping with Python</a></td>
 	</tr>
     <tr>
-	    <td>January 14 and 15</td><td><a href="/workshop/2026/01/14/ucsb-r.html">Introduction to Data Analysis with R</a></td>
+	    <td>January 14 and 15</td><td><a href="../workshop/2026/01/14/ucsb-r.html">Introduction to Data Analysis with R</a></td>
 	</tr>
     <tr>
-	    <td>January 5, 6, 8, and 9</td><td><a href="/workshop/2026/01/05/ucsb-geospatial.html">Geospatial Data Carpentry for Urbanism using R</a></td>
+	    <td>January 5, 6, 8, and 9</td><td><a href="../workshop/2026/01/05/ucsb-geospatial.html">Geospatial Data Carpentry for Urbanism using R</a></td>
 	</tr>
     <tr>
 	    <td><b>2025 Workshops</b></td>
 	</tr>
     <tr>
-	    <td>October 28, 30, and November 4</td><td><a href="/workshop/2025/10/28/ucsb-python.html">Introduction to Data Analysis with Python</a></td>
+	    <td>October 28, 30, and November 4</td><td><a href="../workshop/2025/10/28/ucsb-python.html">Introduction to Data Analysis with Python</a></td>
 	</tr>
     <tr>
-	    <td>October 27 and November 6</td><td><a href="/workshop/2025/10/27/ucsb-computing.html">Research Computing - What to do when your work gets too big for your laptop</a></td>
+	    <td>October 27 and November 6</td><td><a href="../workshop/2025/10/27/ucsb-computing.html">Research Computing - What to do when your work gets too big for your laptop</a></td>
 	</tr>
     <tr>
-	    <td>October 14 and 16</td><td><a href="/workshop/2025/10/14/ucsb-git.html">Version Control with Git and GitHub</a></td>
+	    <td>October 14 and 16</td><td><a href="../workshop/2025/10/14/ucsb-git.html">Version Control with Git and GitHub</a></td>
 	</tr>
     <tr>
-	    <td>October 7</td><td><a href="/workshop/2025/10/07/ucsb-shell.html">Introduction to The Unix Shell</a></td>
+	    <td>October 7</td><td><a href="../workshop/2025/10/07/ucsb-shell.html">Introduction to The Unix Shell</a></td>
 	</tr>
     <tr>
-	    <td>September 16, 18, and 19</td><td><a href="/workshop/2025/09/16/ucsb-python.html">Introduction to Python for MTM Students</a></td>
+	    <td>September 16, 18, and 19</td><td><a href="../workshop/2025/09/16/ucsb-python.html">Introduction to Python for MTM Students</a></td>
 	</tr>
     <tr>
-	    <td>September 15 - 25</td><td><a href="/workshop/2025/09/15/uc.html">2025 UC Carpentries Workshop Series (Remote)</a></td>
+	    <td>September 15 - 25</td><td><a href="../workshop/2025/09/15/uc.html">2025 UC Carpentries Workshop Series (Remote)</a></td>
 	</tr>
     <tr>
-	    <td>July 8-31</td><td><a href="/workshop/2025/07/08/ucsb-geospatial.html">Intro to Geospatial Raster and Vector Data with R</a></td>
+	    <td>July 8-31</td><td><a href="../workshop/2025/07/08/ucsb-geospatial.html">Intro to Geospatial Raster and Vector Data with R</a></td>
 	</tr>
     <tr>
-	    <td>May 1, 2, 8</td><td><a href="/workshop/2025/05/01/ucsb-r.html">Introduction to Data Analysis with R</a></td>
+	    <td>May 1, 2, 8</td><td><a href="../workshop/2025/05/01/ucsb-r.html">Introduction to Data Analysis with R</a></td>
 	</tr>
     <tr>
-	    <td>April 29</td><td><a href="/workshop/2025/04/29/ucsb-computing.html">Research Computing - What to do when your work gets too big for your laptop (Part 2)</a></td>
+	    <td>April 29</td><td><a href="../workshop/2025/04/29/ucsb-computing.html">Research Computing - What to do when your work gets too big for your laptop (Part 2)</a></td>
 	</tr>
     <tr>
-	    <td>April 16</td><td><a href="/workshop/2025/04/16/ucsb-gitcollab.html">Collaborating with Git and GitHub</a></td>
+	    <td>April 16</td><td><a href="../workshop/2025/04/16/ucsb-gitcollab.html">Collaborating with Git and GitHub</a></td>
 	</tr>
     <tr>
-	    <td>April 14</td><td><a href="/workshop/2025/04/14/ucsb-git.html">Getting Started with Git and GitHub</a></td>
+	    <td>April 14</td><td><a href="../workshop/2025/04/14/ucsb-git.html">Getting Started with Git and GitHub</a></td>
 	</tr>
     <tr>
-	    <td>April 11</td><td><a href="/workshop/2025/04/11/ucsb-shell.html">Introduction to The Unix Shell (Online)</a></td>
+	    <td>April 11</td><td><a href="../workshop/2025/04/11/ucsb-shell.html">Introduction to The Unix Shell (Online)</a></td>
 	</tr>
     <tr>
-	    <td>April 10</td><td><a href="/workshop/2025/04/10/ucsb-shell.html">Introduction to The Unix Shell</a></td>
+	    <td>April 10</td><td><a href="../workshop/2025/04/10/ucsb-shell.html">Introduction to The Unix Shell</a></td>
 	</tr>
     <tr>
-	    <td>February 25 and 27</td><td><a href="/workshop/2025/02/25/ucsb-ml.html">Introduction to Machine Learning in Python</a></td>
+	    <td>February 25 and 27</td><td><a href="../workshop/2025/02/25/ucsb-ml.html">Introduction to Machine Learning in Python</a></td>
 	</tr>
     <tr>
-	    <td>February 19</td><td><a href="/workshop/2025/02/18/ucsb-intermediater.html">Intermediate R</a></td>
+	    <td>February 19</td><td><a href="../workshop/2025/02/18/ucsb-intermediater.html">Intermediate R</a></td>
 	</tr>
     <tr>
-	    <td>February 5</td><td><a href="/workshop/2025/02/05/ucsb-containers.html">Container-driven Reproducible Research Made Simple</a></td>
+	    <td>February 5</td><td><a href="../workshop/2025/02/05/ucsb-containers.html">Container-driven Reproducible Research Made Simple</a></td>
 	</tr>
     <tr>
-	    <td>February 3 and 4</td><td><a href="/workshop/2025/02/03/ucsb-computing.html">Research Computing - What to do when your work gets too big for your laptop</a></td>
+	    <td>February 3 and 4</td><td><a href="../workshop/2025/02/03/ucsb-computing.html">Research Computing - What to do when your work gets too big for your laptop</a></td>
 	</tr>
     <tr>
-	    <td>January 23, 24, 30, 31</td><td><a href="/workshop/2025/01/23/ucsb-geospatial.html">Working with Geospatial Data in R</a></td>
+	    <td>January 23, 24, 30, 31</td><td><a href="../workshop/2025/01/23/ucsb-geospatial.html">Working with Geospatial Data in R</a></td>
 	</tr>
     <tr>
-	    <td>January 14, 17, 21</td><td><a href="/workshop/2025/01/14/ucsb-python.html">Introduction to Data Analysis with Python</a></td>
+	    <td>January 14, 17, 21</td><td><a href="../workshop/2025/01/14/ucsb-python.html">Introduction to Data Analysis with Python</a></td>
 	</tr>
 	<tr>
 	    <td><b>2024 Workshops</b></td>
 	</tr>
     <tr>
-	    <td>November 12, 22</td><td><a href="/workshop/2024/11/12/ucsb-qualdatanalysis.html">Handling and Sharing Qualitative Data Responsibly and Effectively</a></td>
+	    <td>November 12, 22</td><td><a href="../workshop/2024/11/12/ucsb-qualdatanalysis.html">Handling and Sharing Qualitative Data Responsibly and Effectively</a></td>
 	</tr>
     <tr>
-	    <td>November 5, 7</td><td><a href="/workshop/2024/11/05/ucsb-webscraping.html">Web Scraping with Python</a></td>
+	    <td>November 5, 7</td><td><a href="../workshop/2024/11/05/ucsb-webscraping.html">Web Scraping with Python</a></td>
 	</tr>
     <tr>
-	    <td>October 22, 25</td><td><a href="/workshop/2024/10/22/ucsb-git.html">Version Control with Git and GitHub</a></td>
+	    <td>October 22, 25</td><td><a href="../workshop/2024/10/22/ucsb-git.html">Version Control with Git and GitHub</a></td>
 	</tr>
     <tr>
-	    <td>October 8, 11, 15</td><td><a href="/workshop/2024/10/08/ucsb-r.html">Introduction to Data Analysis with R</a></td>
+	    <td>October 8, 11, 15</td><td><a href="../workshop/2024/10/08/ucsb-r.html">Introduction to Data Analysis with R</a></td>
 	</tr>
     <tr>
-	    <td>September 9-20</td><td><a href="/workshop/2024/09/09/uc.html">2024 UC Carpentries Workshop Series (Remote)</a></td>
+	    <td>September 9-20</td><td><a href="../workshop/2024/09/09/uc.html">2024 UC Carpentries Workshop Series (Remote)</a></td>
 	</tr>
     <tr>
-	    <td>September 5</td><td><a href="/workshop/2024/09/05/spnhc24.html">Data Carpentry: Species Interaction Data Workshop (Okinawa, Japan)</a></td>
+	    <td>September 5</td><td><a href="../workshop/2024/09/05/spnhc24.html">Data Carpentry: Species Interaction Data Workshop (Okinawa, Japan)</a></td>
 	</tr>
     <tr>
-	    <td>July 9, 16, 23</td><td><a href="/workshop/2024/07/09/ucsb-python.html">Data Analysis and Visualization in Python</a></td>
+	    <td>July 9, 16, 23</td><td><a href="../workshop/2024/07/09/ucsb-python.html">Data Analysis and Visualization in Python</a></td>
 	</tr>
 	<tr>
-	    <td>July 2</td><td><a href="/workshop/2024/07/02/ucsb-spreadsheets.html">Data Organization in Spreadsheets</a></td>
+	    <td>July 2</td><td><a href="../workshop/2024/07/02/ucsb-spreadsheets.html">Data Organization in Spreadsheets</a></td>
 	</tr>
     <tr>
-	    <td>June 10-11</td><td><a href="/workshop/2024/06/10/ucsb-geospatial.html">Introduction to Geospatial Raster and Vector Data with R </a></td>
+	    <td>June 10-11</td><td><a href="../workshop/2024/06/10/ucsb-geospatial.html">Introduction to Geospatial Raster and Vector Data with R </a></td>
 	</tr>
 	<tr>
-	    <td>June 4</td><td><a href="/workshop/2024/06/04/ucsb-containers.html">Container-driven Reproducible Research Made Simple</a></td>
+	    <td>June 4</td><td><a href="../workshop/2024/06/04/ucsb-containers.html">Container-driven Reproducible Research Made Simple</a></td>
 	</tr>
 	<tr>
-	    <td>May 1-2</td><td><a href="/workshop/2024/05/01/ucsb-r.html">Introduction to Data Analysis with R for Social Science</a></td>
+	    <td>May 1-2</td><td><a href="../workshop/2024/05/01/ucsb-r.html">Introduction to Data Analysis with R for Social Science</a></td>
 	</tr>
 	<tr>
-	    <td>February 27</td><td><a href="/workshop/2024/02/27/ucsb-webscraping.html">Introduction to Web Scraping</a></td>
+	    <td>February 27</td><td><a href="../workshop/2024/02/27/ucsb-webscraping.html">Introduction to Web Scraping</a></td>
 	</tr>
 	<tr>
-	    <td>January 30 & February 1</td><td><a href="/workshop/2024/01/30/ucsb-git.html">Version Control with Git</a></td>
+	    <td>January 30 & February 1</td><td><a href="../workshop/2024/01/30/ucsb-git.html">Version Control with Git</a></td>
 	</tr>
         <tr>
             <td><b>2023 Workshops</b></td>
         </tr>
         <tr>
-            <td>November 14-16</td><td><a href="/workshop/2023/12/11/ucsb-quarto.html">Reproducible Publications with Quarto</a></td>
+            <td>November 14-16</td><td><a href="../workshop/2023/12/11/ucsb-quarto.html">Reproducible Publications with Quarto</a></td>
         </tr>      
         <tr>
-            <td>November 14-16</td><td><a href="/workshop/2023/11/13/ucsb-python.html">Data Analysis and Visualization in Python</a></td>
+            <td>November 14-16</td><td><a href="../workshop/2023/11/13/ucsb-python.html">Data Analysis and Visualization in Python</a></td>
         </tr>       
         <tr>
-            <td>October 23-24</td><td><a href="/workshop/2023/10/23/ucsb-git.html">Version Control with Git</a></td>
+            <td>October 23-24</td><td><a href="../workshop/2023/10/23/ucsb-git.html">Version Control with Git</a></td>
         </tr>
         <tr>
             <td>July 28, Aug 4 & 11</td><td><a href="https://ucsbcarpentry.github.io/2023-07-28-ucsb-mcnairs-R/">What does it mean to be Reproducible in R?</a></td>
