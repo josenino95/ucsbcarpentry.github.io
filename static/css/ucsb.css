@@ -15,7 +15,7 @@
 }
 
 header {
-  background-image: url(/fig/contour2.jpg);
+  background-image: url("../fig/contour2.jpg");
   background-size: contain;
 }
 
