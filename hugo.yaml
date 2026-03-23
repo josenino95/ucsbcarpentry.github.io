@@ -26,3 +26,7 @@ markup:
 
 # Output URLs with .html extensions (matches Jekyll behavior)
 uglyURLs: true
+
+caches:
+  images:
+    dir: :cacheDir/images
